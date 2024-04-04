@@ -1,0 +1,8 @@
+model:
+https://drive.google.com/file/d/1vxq_lK8kGMXxhA7Z5zKXgE4e2zVlJ_zT/view?usp=sharing
+
+dataset:
+https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+
+huggingface:
+https://huggingface.co/spaces/dewaalmatin/GC7
